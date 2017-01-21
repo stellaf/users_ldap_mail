@@ -23,8 +23,7 @@
     'name': "LDAP mapping for user name and e-mail",
     'version': "10.0.1.0.0",
     'depends': ["auth_ldap"],
-    'author': "Daniel Reis, re-write it for Odoo 10 by Stella Fredö in Sweden"
-              "Odoo Community Association (OCA)",
+    'author': "Daniel Reis, re-write it for Odoo 10 by Stella Fredö in Sweden",
     'license': 'AGPL-3',
     'description': """\
 Allows to define the LDAP attributes to use to retrieve user name and e-mail
